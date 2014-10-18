@@ -1,0 +1,8 @@
+C:\Users\JuicyP\Programming\C#\C# Crash Course\SideScrollingShooter\SideScrollingShooterContent\SideScrollingShooterContent\bin\PSM\Content\player.xnb
+C:\Users\JuicyP\Programming\C#\C# Crash Course\SideScrollingShooter\SideScrollingShooterContent\SideScrollingShooterContent\bin\PSM\IgnoreMe.dll
+C:\Users\JuicyP\Programming\C#\C# Crash Course\SideScrollingShooter\SideScrollingShooterContent\SideScrollingShooterContent\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\JuicyP\Programming\C#\C# Crash Course\SideScrollingShooter\SideScrollingShooterContent\SideScrollingShooterContent\obj\PSM\IgnoreMe.dll
+C:\Users\JuicyP\Programming\C#\C# Crash Course\SideScrollingShooter\SideScrollingShooterContent\SideScrollingShooterContent\bin\PSM\Content\Fps.xnb
+C:\Users\JuicyP\Programming\C#\C# Crash Course\SideScrollingShooter\SideScrollingShooterContent\SideScrollingShooterContent\bin\PSM\Content\bullet.xnb
+C:\Users\JuicyP\Programming\C#\C# Crash Course\SideScrollingShooter\SideScrollingShooterContent\SideScrollingShooterContent\bin\PSM\Content\enemy.xnb
+C:\Users\JuicyP\Programming\C#\C# Crash Course\SideScrollingShooter\SideScrollingShooterContent\SideScrollingShooterContent\bin\PSM\Content\WTF.xnb
